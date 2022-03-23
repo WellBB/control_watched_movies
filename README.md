@@ -1,5 +1,5 @@
-# Instruções de uso
+# Instructions for use
 
-- Instalar componentes do backend e frontend (npm i)
-- Backend na porta 5000
-- Frontend na porta 3000
+- Install backend and frontend components (npm i)
+- Backend on port 5000
+- Frontend on port 3000
